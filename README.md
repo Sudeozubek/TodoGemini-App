@@ -1,6 +1,6 @@
 📌 TodoGemini-App
 
-Gemini AI ile entegre edilmiş bir To-Do yönetim uygulaması. FastAPI ve SQLAlchemy kullanılarak geliştirilmiştir. Kullanıcılar, JWT kimlik doğrulaması ile giriş yaparak görevlerini ekleyebilir, düzenleyebilir ve silebilir. Ayrıca, Gemini AI desteği ile görev açıklamaları otomatik olarak detaylandırılabilir.
+proje, Yapay Zeka Akademisi eğitiminde öğrendiğim bilgileri temel alınarak geliştirilmiştir.Bu  Gemini AI ile entegre edilmiş bir To-Do yönetim uygulaması. FastAPI ve SQLAlchemy kullanılarak geliştirilmiştir. Kullanıcılar, JWT kimlik doğrulaması ile giriş yaparak görevlerini ekleyebilir, düzenleyebilir ve silebilir. Ayrıca, Gemini AI desteği ile görev açıklamaları otomatik olarak detaylandırılabilir.
 
 🚀 Özellikler
 
