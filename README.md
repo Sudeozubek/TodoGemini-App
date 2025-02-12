@@ -1,18 +1,18 @@
 📌 TodoGemini-App
 
-Bu proje, Google Yapay Zeka ve Teknoloji Akademisi eğitiminde öğrendiğim bilgileri temel alınarak geliştirilmiştir.Bu  Gemini AI ile entegre edilmiş bir To-Do yönetim uygulaması. FastAPI ve SQLAlchemy kullanılarak geliştirilmiştir. Kullanıcılar, JWT kimlik doğrulaması ile giriş yaparak görevlerini ekleyebilir, düzenleyebilir ve silebilir. Ayrıca, Gemini AI desteği ile görev açıklamaları otomatik olarak detaylandırılabilir.
+This project was developed based on the information I learned in the Google Artificial Intelligence and Technology Academy training. This is a To-Do management application integrated with Gemini AI. It was developed using FastAPI and SQLAlchemy. Users can add, edit and delete their tasks by logging in with JWT authentication. In addition, task descriptions can be automatically detailed with Gemini AI support.
 
-🚀 Özellikler
+🚀 Features
 
-✅ JWT Kimlik Doğrulama: Kullanıcı giriş ve kayıt işlemleri.
+✅ JWT Authentication: User login and registration processes.
 
-✅ To-Do Yönetimi: Görev ekleme, düzenleme, silme ve listeleme.
+✅ To-Do Management: Add, edit, delete and list tasks.
 
-✅ Gemini AI Desteği: Girilen görev açıklamalarını otomatik olarak genişletir.
+✅ Gemini AI Support: Automatically expands entered task descriptions.
 
-✅ FastAPI & SQLAlchemy: Hızlı ve ölçeklenebilir bir backend yapısı.
+✅ FastAPI & SQLAlchemy: A fast and scalable backend structure.
 
-✅ SQLite/PostgreSQL Desteği: Veritabanı yönetimi.
+✅ SQLite/PostgreSQL Support: Database management.
 
-✅ Jinja2 Şablonları: Dinamik HTML sayfa desteği.
+✅ Jinja2 Templates: Dynamic HTML page support.
 
