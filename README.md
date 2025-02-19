@@ -1,18 +1,32 @@
-📌 TodoGemini-App
+# TodoGemini-App 🚀  
 
-This project was developed based on the information I learned in the Google Artificial Intelligence and Technology Academy training. This is a To-Do management application integrated with Gemini AI. It was developed using FastAPI and SQLAlchemy. Users can add, edit and delete their tasks by logging in with JWT authentication. In addition, task descriptions can be automatically detailed with Gemini AI support.
+This project was developed based on the knowledge gained from the **Google Artificial Intelligence and Technology Academy** training. **TodoGemini-App** is an AI-powered To-Do management application integrated with **Gemini AI**.  
 
-🚀 Features
+It was built using **FastAPI** and **SQLAlchemy**, allowing users to **add, edit, and delete tasks** with **JWT authentication**. Additionally, **Gemini AI** automatically expands task descriptions for better productivity.  
 
-✅ JWT Authentication: User login and registration processes.
+---
 
-✅ To-Do Management: Add, edit, delete and list tasks.
+## 📂 Project Structure  
 
-✅ Gemini AI Support: Automatically expands entered task descriptions.
+TodoGemini-App/ │── app/ │ │── models.py # Database models (SQLAlchemy) │ │── routes.py # FastAPI endpoints │ │── auth.py # JWT authentication functions │ │── ai.py # Gemini AI integration │ │── templates/ # Jinja2 HTML templates │── main.py # FastAPI app entry point │── requirements.txt # Dependencies │── README.md # Documentation
 
-✅ FastAPI & SQLAlchemy: A fast and scalable backend structure.
 
-✅ SQLite/PostgreSQL Support: Database management.
+---
 
-✅ Jinja2 Templates: Dynamic HTML page support.
+## ✨ **Features**  
+✅ **JWT Authentication** – Secure user registration and login.  
+✅ **To-Do Management** – Create, edit, delete, and list tasks.  
+✅ **Gemini AI Integration** – AI-powered task description enhancement.  
+✅ **FastAPI & SQLAlchemy** – High-performance and scalable backend.  
+✅ **SQLite/PostgreSQL Support** – Flexible database management.  
+✅ **Jinja2 Templates** – Dynamic and interactive HTML pages.  
 
+---
+
+## 🚀 **Setup & Installation**  
+### 1️⃣ **Clone the Repository**  
+```bash
+git clone https://github.com/your-username/TodoGemini-App.git
+cd TodoGemini-App
+pip install -r requirements.txt
+uvicorn main:app --reload
