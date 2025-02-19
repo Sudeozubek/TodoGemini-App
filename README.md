@@ -8,8 +8,6 @@ It was built using **FastAPI** and **SQLAlchemy**, allowing users to **add, edit
 
 ## 📂 Project Structure  
 
-TodoGemini-App/ │── app/ │ │── models.py # Database models (SQLAlchemy) │ │── routes.py # FastAPI endpoints │ │── auth.py # JWT authentication functions │ │── ai.py # Gemini AI integration │ │── templates/ # Jinja2 HTML templates │── main.py # FastAPI app entry point │── requirements.txt # Dependencies │── README.md # Documentation
-
 
 ---
 
