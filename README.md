@@ -6,11 +6,6 @@ It was built using **FastAPI** and **SQLAlchemy**, allowing users to **add, edit
 
 ---
 
-## 📂 Project Structure  
-
-
----
-
 ## ✨ **Features**  
 ✅ **JWT Authentication** – Secure user registration and login.  
 ✅ **To-Do Management** – Create, edit, delete, and list tasks.  
